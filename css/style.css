@@ -417,7 +417,10 @@ img {
 }
 .logo {
   max-width: 160px !important;
-  max-height: 100px !important;
+  max-width: 160px !important;
+  max-height: 78px !important;
+  padding: 5px;
+  border-radius: 16px;
 }
 
 ul li,
